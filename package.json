@@ -1,0 +1,25 @@
+{
+  "name": "jsrails",
+  "version": "0.0.0",
+  "description": "A Javascript MVC/RESTApi framework based on EcmaScript 6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/infinito84/jsrails.git"
+  },
+  "keywords": [
+    "es6",
+    "framework",
+    "mvc",
+    "rest",
+    "express"
+  ],
+  "author": "Sergio Andrés Ñustes <infinito84@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/infinito84/jsrails/issues"
+  }
+}
