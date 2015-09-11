@@ -15,9 +15,18 @@
     "framework",
     "mvc",
     "rest",
-    "express"
+    "express",
+    "rethinkdb",
+    "flux"
   ],
-  "author": "Sergio Andrés Ñustes <infinito84@gmail.com>",
+  "dependencies": {
+    "babel": "~5.8.23"
+  },
+  "author": "JSRails",
+  "contributors": [
+    "Sergio Andrés Ñustes <infinito84@gmail.com>",
+    "Juan David Echeverry Rivera <j.echeverry@udla.edu.co>"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/infinito84/jsrails/issues"
